@@ -1072,24 +1072,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Luka\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\NKristesiashvili\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luka\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\HolidayMailer.csproj",
+      "projectUniqueName": "C:\\Users\\NKristesiashvili\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\HolidayMailer.csproj",
       "projectName": "HolidayMailer",
-      "projectPath": "C:\\Users\\Luka\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\HolidayMailer.csproj",
-      "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luka\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\obj\\",
+      "projectPath": "C:\\Users\\NKristesiashvili\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\HolidayMailer.csproj",
+      "packagesPath": "C:\\Users\\NKristesiashvili\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NKristesiashvili\\Desktop\\HolidayMailer\\HolidayMailer\\HolidayMailer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\NKristesiashvili\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

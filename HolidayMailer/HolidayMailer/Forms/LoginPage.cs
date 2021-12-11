@@ -40,12 +40,12 @@ namespace HolidayMailer.Forms
             Password = textBox2.Text;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {          
-            var user =  _repo.GetUserByUserName(UserName);
+         private void button2_Click(object sender, EventArgs e)
+        {
+            var user = _repo.GetUserByUserName(UserName);
             if (user == null)
             {
-                MessageBox.Show("Client with this email does not exist", "Client Not Found Error",MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Client with this email does not exist", "Client Not Found Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
@@ -57,13 +57,27 @@ namespace HolidayMailer.Forms
                     frm.Location = Location;
                     Hide();
                     frm.StartPosition = FormStartPosition.Manual;
-                    frm.ShowDialog();                    
+                    frm.ShowDialog();
                 }
             }
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {          
+           
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {            
+            
+        }
+
+        private void LoginPage_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
             var frm = new RegisterPage();
             frm.Location = Location;
             Hide();
@@ -71,7 +85,7 @@ namespace HolidayMailer.Forms
             frm.ShowDialog();
         }
 
-        private void LoginPage_Load(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
