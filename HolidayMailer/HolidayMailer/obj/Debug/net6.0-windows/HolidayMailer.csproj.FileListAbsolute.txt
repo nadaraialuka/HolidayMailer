@@ -37,8 +37,9 @@ C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\net6.0
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.csproj.AssemblyReference.cache
-C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.Form1.resources
+C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.Forms.LoginPage.resources
+C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.Forms.MainPage.resources
+C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.Forms.RegisterPage.resources
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.csproj.GenerateResource.cache
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.AssemblyInfoInputs.cache
@@ -49,3 +50,5 @@ C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\ref\HolidayMailer.dll
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.pdb
 C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.genruntimeconfig.cache
+C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\HolidayMailer\HolidayMailer\HolidayMailer\obj\Debug\net6.0-windows\HolidayMailer.Form1.resources

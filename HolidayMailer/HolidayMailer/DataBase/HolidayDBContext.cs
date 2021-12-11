@@ -36,6 +36,9 @@ namespace HolidayMailer.DataBase
                 entity.Property(x => x.Name).HasMaxLength(50).IsRequired();
                 entity.Property(x => x.TargetEmail).IsRequired();
                 entity.Property(x => x.TargetName).IsRequired();
+                entity.Property(x => x.UserId).HasColumnType("int");
+                entity.Property(x => x.Date).HasColumnType("date");
+                //entity.HasOne(x => x.User).WithMany(c => c.Events).HasForeignKey(x => x.UserId);
             });
             base.OnModelCreating(modelBuilder);
         }

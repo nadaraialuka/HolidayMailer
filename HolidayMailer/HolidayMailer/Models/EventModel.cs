@@ -7,7 +7,6 @@
         public string Name { get; set; }
         public int UserId { get; set; }
         public string TargetEmail { get; set; }
-        public string TargetName { get; set; }
-        public User User { get; set; }
+        public string TargetName { get; set; }        
     }
 }

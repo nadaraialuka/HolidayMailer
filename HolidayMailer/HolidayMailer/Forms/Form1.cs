@@ -44,7 +44,7 @@ namespace HolidayMailer
 
             SmtpClient client = new SmtpClient("aspmx.l.google.com");
 
-            //client.EnableSsl = true;
+            client.EnableSsl = true;
 
             MailAddress from = new MailAddress("Lukanadaraia2001@gmail.com", "Luka  Nadaraia");
             
@@ -65,6 +65,11 @@ namespace HolidayMailer
             
 
 
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }

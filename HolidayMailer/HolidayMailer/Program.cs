@@ -1,3 +1,6 @@
+using HolidayMailer.DataBase;
+using HolidayMailer.Forms;
+
 namespace HolidayMailer
 {
     internal static class Program
@@ -8,8 +11,13 @@ namespace HolidayMailer
         [STAThread]
         static void Main()
         {
+            //var ss = new HolidayDBContext();
+            //var tt = ss.Events.ToList();
+            //ss.Events.RemoveRange(tt);
+            //ss.SaveChanges();
+            //var rr = ss.Events.ToList();
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new LoginPage());
         }
     }
 }
